@@ -6,9 +6,9 @@
 
 ![Description](https://img.shields.io/badge/Description-purple?style=for-the-badge)
 > This repository contains solutions for the ninth task assignment of the JavaScript course. The tasks focus on asynchronous programming, timers, dates, promises, and API interactions.
-> 01-color-switcher/: Implements a color switcher that changes the background color at set intervals.
-> 02-timer/: Features a countdown timer to a specified date.
-> 03-promises/: Demonstrates promise generation and handling.
+> - 01-color-switcher/: Implements a color switcher that changes the background color at set intervals.
+> - 02-timer/: Features a countdown timer to a specified date.
+> - 03-promises/: Demonstrates promise generation and handling.
 >
 
 ![Task 1](https://img.shields.io/badge/Task%201-purple?style=for-the-badge)
