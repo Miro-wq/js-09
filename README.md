@@ -1,19 +1,15 @@
-# ✨ Timer & Date ✨
+# Timer & Date
 
-## 🛠 Tools used
+## Description 
+ This repository contains solutions for the ninth task assignment of the JavaScript course. The tasks focus on asynchronous programming, timers, dates, promises, and API interactions.
+ - 01-color-switcher/: Implements a color switcher that changes the background color at set intervals.
+ - 02-timer/: Features a countdown timer to a specified date.
+ - 03-promises/: Demonstrates promise generation and handling.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
-![Description](https://img.shields.io/badge/Description-purple?style=for-the-badge)
-> This repository contains solutions for the ninth task assignment of the JavaScript course. The tasks focus on asynchronous programming, timers, dates, promises, and API interactions.
-> - 01-color-switcher/: Implements a color switcher that changes the background color at set intervals.
-> - 02-timer/: Features a countdown timer to a specified date.
-> - 03-promises/: Demonstrates promise generation and handling.
->
+## Task 1 
+ - color switcher
 
-![Task 1](https://img.shields.io/badge/Task%201-purple?style=for-the-badge)
-> - color switcher
->
 
 In HTML, there are "Start" and "Stop" buttons.
 
@@ -35,9 +31,9 @@ function getRandomHexColor() {
 }
 ```
 
-![Task 2](https://img.shields.io/badge/Task%201-purple?style=for-the-badge)
-> - countdown timer
->
+## Task 2 
+ - countdown timer
+
 
 Do this task in the `02-timer.html` and `02-timer.js` files. Write a timer script that counts down to a specific date. Such a timer can be used in blogs and online stores, event-logging pages, during maintenance, etc. Watch a demo video of the timer.
 
@@ -153,9 +149,9 @@ The `convertMs()` function returns an object with the calculated time remaining 
 
 Use the notiflix library to display notifications to the user instead of `window.alert()`.
 
-![Task 3](https://img.shields.io/badge/Task%203-purple?style=for-the-badge)
-> - promise generator
->
+## Task 3
+ - promise generator
+
 
 Do this task in the `03-promises.html` and `03-promises.js` files.
 
